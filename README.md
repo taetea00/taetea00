@@ -1,4 +1,4 @@
-## Hi there 👋
+## 태규의 개인지식저장소 👋
 
 <!--
 **taetea00/taetea00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
