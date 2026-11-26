@@ -1,4 +1,5 @@
 ## 태규의 개인지식저장소 👋
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 <!--
 **taetea00/taetea00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
