@@ -1,4 +1,6 @@
-## 태규의 개인지식저장소 👋
+# 태규의 개인지식저장소 👋
+
+대학교 강의자료 정리
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 <!--
